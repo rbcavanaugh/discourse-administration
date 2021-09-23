@@ -4,6 +4,7 @@ description: |
   Discourse Administration for AphasiaBank
 output_dir: "docs"
 navbar:
+  source_url: https://github.com/rbcavanaugh/discourse-administration
   right:
     - text: "Home"
       href: index.html
