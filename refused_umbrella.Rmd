@@ -1,0 +1,61 @@
+---
+title: "Refused Umbrella"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{js}
+function hide_element() {
+  var x = document.getElementById("instructions3");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+```
+
+```{css}
+d-title, d-byline {
+  display: none
+}
+
+```
+
+<div style="margin-top:20px; margin-bottom: 0px;" id="instructions3">
+
+### Instructions: Refused Umbrella 
+
+- *Present picture series.*\
+**"Here are some more pictures that tell a story. Take a look at all of them, and then
+I’ll ask you to tell me the story with a beginning, a middle, and an end. Again, you
+can look at the pictures as you tell the story."**
+
+- *If no response in 10 seconds, give second prompt:*\
+**"Take a look at this picture (point to first picture) and tell me what you think is
+happening."**
+
+- *If needed, point to each picture sequentially, giving the prompt:*\
+**"And what happens here?"**
+
+- *For each panel, if no response, provide the prompt:*\
+**"Can you tell me anything about this picture?"**
+
+- *If no response to "Can you tell me anything else about this picture?", go to Troubleshooting questions:*\
+  - *point to the picture and ask:*\
+**"Did the boy refuse the umbrella?"**
+</div>
+<center>
+<button onclick="hide_element()" style="margin-top:20px;">Toggle Instructions</button>
+</center>
+
+<br><br><br><br><br><br><br>
+
+```{r, layout="l-body-outset"}
+knitr::include_graphics(path = "img/refused_umbrella.jpeg")
+```
+
+<br><br><br><br><br><br><br><br><br><br>
+

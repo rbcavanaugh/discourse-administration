@@ -1,0 +1,30 @@
+---
+title: "Discourse elicitation for Aphasia Bank"
+site: distill::distill_website
+---
+
+### About 
+
+This website contains stimuli and administration instructions for the discourse elicitation tasks used in Aphasia Bank (https://aphasia.talkbank.org). 
+
+<!-- It is intended for clinical use specific to discourse tasks, and not intended for data collection for Aphasia Bank.  -->
+
+<!-- This website is not affiliated with talkbank.org or Aphasia Bank  -->
+
+- The full elicitation instructions are found here: https://aphasia.talkbank.org/protocol/instructions.pdf
+
+- The full troubleshooting instructions are incorporated into this website, but are found here: https://aphasia.talkbank.org/protocol/troubleshooting.pdf
+
+- The stimuli for each task are found here: https://aphasia.talkbank.org/protocol/pictures/
+
+### How to use
+
+Stary by reading the instructions page. Then, each stimulus is accessible in the top right menu "Stimuli." At the top of each stimuli page, there are administration instructions, which can be hidden by pressing "toggle instructions." Regardless, scrolling down on the page will hide the instructions and top navigation bar, so that only the stimuli are shown. 
+
+<!-- ### Notes -->
+
+<!-- - Record responses (video or audio) for off-line transcription if possible.  -->
+<!--   - Remember to obtain consent for recording -->
+<!-- - The Aphasia Bank protocol begins with two free speech samples about the person's stroke and an important event in the person's life; clinicians may want to include these to start to be consistent with the larger protocol (see instructions pdf) -->
+<!-- - Transcribing and segmenting discourse samples largely depends on the measure of interest. See https://aphasia.talkbank.org/ for more information.  -->
+<!-- - These stimuli are used for main concept analysis and core lexicon analysis. Web-apps for scoring these measures be found at https://aphasia-apps.shinyapps.io/mainConcept and https://aphasia-apps.shinyapps.io/coreLexicon -->

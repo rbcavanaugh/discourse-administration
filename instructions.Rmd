@@ -1,0 +1,24 @@
+---
+title: "Instructions"
+---
+
+These instructions explain how to administer the discourse tasks of the AphasiaBank protocol and include the detailed script for examiners to follow. Allow ample time for as full a response as each participant can provide using this protocol script.
+
+For those unable to respond to these open-ended questions, you can use the Troubleshooting questions (posted with Protocol Testing Materials at https://aphasia.talkbank.org/protocol/) as needed to simplify response demands. For those unable to respond even to the Troubleshooting questions for the first Free Speech sample (Stroke Story and Coping), skip the second Free Speech Sample (Important Event) and proceed to the first Picture Description (Broken Window). If the participant responds to the Broken Window, continue with the protocol, changing the order if that helps, and returning to the initial questions if appropriate. If the participant does not respond to the Broken Window picture, and you believe these tasks are too difficult, you can use the “Exit Questions” at the end of the Troubleshooting document to end the session or you can discontinue as you see fit.
+
+To facilitate transcription, the examiner's speech, including verbal encouragers, should be kept to a minimum. Use nonverbal encouragers (e.g., head nods, facial expressions, eye contact) instead of verbal (e.g., “I see”, “mhm”, “yeah”) whenever possible. 
+
+Start with a preliminary unrecorded conversation for social exchanges, signing consent
+forms, explaining about filming and recording the session, answering any questions, and
+so forth. If your institution requires it, record the following preamble about informed
+consent, then lead in to the first recorded protocol item (Stroke Story and Coping).
+
+BEGIN RECORDING
+
+*If recording for aphasiaBank:*
+
+Investigator: **"This participant has signed an informed consent form. These data can
+be used for ______________ (specify: research, teaching, or any purpose). These
+data are not to be used for ____________ (specify any restrictions)."**
+
+

@@ -1,0 +1,78 @@
+---
+title: "Broken Window"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css}
+d-title, d-byline {
+  display: none
+}
+```
+
+<div style="margin-top:20px; margin-bottom: 0px;" id="instructions">
+
+## Instructions: Free speech samples
+
+```{r panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+::::: {.panelset}
+
+::: {.panel}
+
+## A. STROKE STORY and COPING {.panel-name}
+
+1. **"I’m going to be asking you to do some talking. How do you think your speech is these days?"**
+
+  *If no response in approximately 10 seconds, prompt:*\
+  - **"How's your talking?"**
+
+  *Listen, encourage full response.*
+
+  *If no response, use Troubleshooting questions.*
+  
+2. **"Do you remember when you had your stroke?"**
+
+  *If yes,* **"Please tell me about it."**
+
+  *If no,* **"Well, how about your first memories after the stroke. What can you tell me about that?"**
+ 
+  *If no response in approximately 10 seconds, prompt:*\
+  - **"Try to tell me about the day you had your stroke."**
+
+  *Listen, encourage full response.*
+
+  *If no response, use Troubleshooting questions.*
+
+At a natural juncture add:
+
+3. **"Tell me about your recovery. What kinds of things have you done to try to get better since your stroke?"**
+
+  *If no response in approximately 10 seconds, prompt:*\
+  - **"Tell me about any changes you’ve needed to make in your daily life."**
+  
+  *If no response, use Troubleshooting questions.*
+
+**"Now I’m going to ask you to do a few more things where you need to talk. Please talk as much as you can about each one, because we’re really interested in knowing about your language."**
+
+:::
+
+::: {.panel}
+
+## B. IMPORTANT EVENT {.panel-name}
+
+**"Thinking back, can you tell me a story about something important that happened to you in your life? It could be happy or sad or from any time -- from when you were a kid or more recently."**
+
+*If no response in approximately 10 seconds, prompt:*\
+  - **"For instance, you could tell me about a trip you took or something about your family or your work -- anything."**
+
+*If no response, use Troubleshooting questions.*
+
+:::
+
+:::::
+

@@ -1,0 +1,44 @@
+---
+title: "Sandwich"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{js}
+function hide_element() {
+  var x = document.getElementById("instructions2");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+```
+
+```{css}
+d-title, d-byline {
+  display: none
+}
+```
+
+<div style="margin-top:20px; margin-bottom: 0px;" id="instructions2">
+
+### Instructions: Peanut Butter & Jelly Sandwich
+
+- ***Present picture ONLY if participant is unable to give any verbal response.***\
+**"Let’s move on to something a little different. Tell me how you would make a
+peanut butter and jelly sandwich."**
+
+- *If no response in 10 seconds, give second prompt:*\
+**"If you were feeling hungry for a peanut butter and jelly sandwich, how would
+you make it?" **
+
+- *If no response to "If you were feeling hungry for a peanut butter and jelly sandwich, how would you make it?", go to Troubleshooting questions:*\
+  - **"These are the things you need to make a peanut butter and jelly sandwich (show picture). How would you make one?"**
+</div>
+<center>
+<button onclick="hide_element()" style="margin-top:20px;">Toggle Instructions</button>
+</center>
+

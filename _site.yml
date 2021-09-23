@@ -1,0 +1,26 @@
+name: "discourse-administration"
+title: "Discourse Administration for AphasiaBank"
+description: |
+  Discourse Administration for AphasiaBank
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Instructions"
+      href: instructions.html
+    - text: "Stimuli"
+      menu:
+        - text: "1. Free Speech"
+          href: free_speech.html
+        - text: "2. Broken Window"
+          href: broken_window.html
+        - text: "3. Cat Rescue"
+          href: cat_rescue.html
+        - text: "4. Refused Umbrella"
+          href: refused_umbrella.html
+        - text: "5. Cinderella"
+          href: cinderella.html
+        - text: "6. Sandwich"
+          href: sandwich.html
+output: distill::distill_article

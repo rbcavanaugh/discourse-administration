@@ -1,0 +1,58 @@
+---
+title: "Cat Rescue"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{js}
+function hide_element() {
+  var x = document.getElementById("instructions2");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+```
+
+```{css}
+d-title, d-byline {
+  display: none
+}
+```
+
+<div style="margin-top:20px; margin-bottom: 0px;" id="instructions2">
+
+### Instructions: Cat Rescue 
+
+- *Present picture.*\
+**"Here is another picture. Look at everything that’s happening and then tell me a
+story about what you see. Tell me the story with a beginning, a middle, and an end."**
+
+- *If no response in 10 seconds, give second prompt:*\
+**"Take a look (point to picture) and tell me any part of the story." **
+
+- *If fewer than 2 utterances, give third prompt:*\
+**"Anything else you can tell me about the story?"**
+
+- *For each panel, if no response, provide the prompt:*\
+**"Can you tell me anything about this picture?"**
+
+- *If no response to "Anything else you can tell me about the story?", go to Troubleshooting questions:*\
+  - *point to the picture and ask:*\
+**"See the cat stuck in the tree?"**
+</div>
+<center>
+<button onclick="hide_element()" style="margin-top:20px;">Toggle Instructions</button>
+</center>
+
+<br><br><br><br><br>
+
+```{r, layout="l-body-outset"}
+knitr::include_graphics(path = "img/cat_rescue.jpeg")
+```
+
+<br><br><br><br><br><br><br><br><br><br>
+
